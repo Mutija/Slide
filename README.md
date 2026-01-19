@@ -1,4 +1,4 @@
-# Slide- Android aplikacija s dinamičkom lokacijom 
+# Slide - Android aplikacija za međusobno upoznavanje ljudi u stvarnom životu
 
 Slide je Android aplikacija razvijena za natjecanje iz informatike i završni rad u Elektrotehničkoj školi Split smjera Tehničar za računalstvo, čija je glavna svrha olakšati spontano upoznavanje i komunikaciju ljudi u stvarnom svijetu pomoću dinamičke GPS lokacije u stvarnom vremenu.
 
