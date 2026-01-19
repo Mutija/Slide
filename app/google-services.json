@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "312115482313",
+    "firebase_url": "https://slide-lokacija-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "slide-lokacija",
+    "storage_bucket": "slide-lokacija.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312115482313:android:8b5907e991fada3c24c718",
+        "android_client_info": {
+          "package_name": "com.example.slide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPIxyqTSMWZmXyp5dWRPRDXhC1OsKmB8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312115482313:android:3856d8634ddae73324c718",
+        "android_client_info": {
+          "package_name": "com.example.slide_v20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPIxyqTSMWZmXyp5dWRPRDXhC1OsKmB8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
