@@ -23,3 +23,7 @@ Aplikacija uključuje:
 - push notifikacije
 
 - fokus na sigurnost, privatnost i GDPR usklađenost
+
+🏆 Postignuća
+
+4. mjesto na Županijskom natjecanju iz informatike
